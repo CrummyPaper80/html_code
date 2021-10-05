@@ -1,0 +1,18 @@
+h1,h2{
+    color: purple;
+    background-color: lightpink;
+    font-style: normal;
+    text-align: center;
+}
+
+p{
+    color: rgba(255, 153, 0, 0.952);
+    font-style: normal;
+    text-align: justify;
+}
+
+.number{
+color: salmon;
+font-style: oblique;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
