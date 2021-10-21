@@ -10,11 +10,16 @@ span{
 }
 
 div{
-    background-color: rgb(243, 8, 184);
-    display: inline-block;
-    overflow: auto;
-    float: left;
+    border: 2px solid black;
 
+}
+
+p{
+    border: 1px solid red;
+    width: 25%;
+    position: relative;
+    top: 30px;
+    left: 50%; 
 }
 
 h1,h2{

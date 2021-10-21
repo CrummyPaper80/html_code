@@ -1,0 +1,50 @@
+exam 1 review: (pre-exam)
+
+total 75 points
+10 to t/f, mcq, fill in blank
+65 to problem solving, short answer, some code related snippets stuff
+
+allowed 2 pages of notes for reference. 10pt font
+no electronics
+no www help
+will need to be submitted
+
+topics:
+HTML and CSS
+
+-accessibility requirements and standards
+    -POUR: elaborate it
+-can you apply what you know with what you are working on?
+    -(img what is purpose of alt tag? boosts accessibility)
+    -dont overlook accessibility
+HMTL:
+  -browser?
+  -www
+  -Internet (look at first classes)
+Structure of HTML pages
+  -main components (doctype, head, body, etc.)
+  -Document Object Model (DOM) (given html, create a Dom and vice versa) (be able to translate and explain structure)
+  -HTML Semantics (Language is more about semantics and not the syntax itself)
+  -HTML Tags
+    -Block tags (what they are and what they do and examples)
+    -Inline tags
+  -HTML 5 semantic tags (header, footer, main, section, div?, span?) (explain why to use a certain tag and where)
+  -HTML attributes (what they are and purpose)
+  -HTML multimedia
+  -HTML tables (and their semantics) (th table heading, td)
+
+Dont need fontawesome stuff
+
+Some useful tags (GO OVER SECTION) (iframe, progress, meter, maps)
+
+
+CSS:
+  -Syntax (how to include styling rules)
+  -ways to incorporate css in HTML 5
+  -Different styling properties
+    -display, visibility, font/text, colors, borders, margins, floats, padding, clear
+    -positioning
+    -transitions and transforms
+    -Box Model (how to use to design pages)
+    -pseudo classes and elements
+    -css selectors
